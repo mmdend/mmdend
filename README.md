@@ -31,7 +31,7 @@
 
 ### Contact Me:
 <a href="mailto:mohammadmoosapoor4@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/last_mehrad" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/mehradetoun" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mmdetoun/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 [![](https://visitcountpro.netlify.app/api?id=mmd-punisher&pretty=true)](https://visitcount.itsvg.in)
